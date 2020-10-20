@@ -1,0 +1,451 @@
+@media(min-width:991px)and (max-width:1199px){
+    .footer-left li {
+	margin: 0px 10px;
+	
+}
+    .sub button i {
+	font-size: 20px;
+}
+    .sub input[type="text"] {
+	padding: 10px 10px;
+
+}
+    .social i {
+
+	margin-right: 6px;
+
+}
+}
+@media(min-width:768px)and (max-width:991px){
+    #banner {
+        padding-top: 144px;
+        padding-bottom: 100px;
+    }
+
+    .navbar-toggler i {
+        color: #fff;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        background: #413d4b;
+        text-align: center;
+    }
+
+    .banner .slick-dots {
+
+        bottom: -100px;
+
+    }
+ .sotry-img {
+        text-align: center;
+    }
+
+    #story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .story-text {
+        padding-top: 15px;
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    #story-video {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .service-head h2::after {
+	bottom: -70px;
+
+}
+    .service-text p {
+	padding: 0px 30px;
+}
+    .service-item {
+        padding-top: 40px;
+    }
+    .footer-right{
+        text-align: center;
+    }
+    .contact-form h2, .partner h2 {
+	text-align: center;
+}
+    .footer-right{
+        padding-top: 40px;
+    }
+    .contact-form h2, .partner h2 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    .sub input[type="text"] {
+	padding: 10px 70px;
+}
+    .sub button i {
+	padding: 10px 25px;
+	
+}
+    .copy-right h6 {
+	text-align: center;
+}
+  .contact-form {
+	padding-right: 30px;
+	text-align: center;
+}  
+}
+
+
+@media(min-width:576px)and (max-width:767px){
+      #banner {
+        padding-top: 144px;
+        padding-bottom: 100px;
+    }
+
+    .navbar-toggler i {
+        color: #fff;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        background: #413d4b;
+        text-align: center;
+    }
+
+    .banner .slick-dots {
+
+        bottom: -100px;
+
+    }
+
+    .sotry-img {
+        text-align: center;
+    }
+
+    #story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .story-text {
+        padding-top: 15px;
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    #story-video {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    #service {
+        padding-top: 0px;
+    }
+
+    .service-head p {
+        padding-top: 10px;
+    }
+
+    .service-head h2::after {
+        bottom: -80px;
+
+    }
+.service-text p {
+	padding: 0px 30px;
+}
+    .service-item {
+        padding-top: 40px;
+    }
+
+    .team-text h2::after {
+
+	left: 20%;
+	width: 170px !important;
+}
+
+    .team-head h3 {
+        padding-top: 35px;
+        padding-bottom: 20px;
+
+    }
+
+    .team-head {
+        padding-bottom: 50px;
+    }
+
+    .nav-pills .nav-link {
+        margin-bottom: 10px;
+    }
+
+    .work-head {
+        padding-top: 5px;
+        padding-bottom: 40px;
+    }
+
+    .feedback-text i {
+        padding-top: 40px;
+    }
+
+    #contact {
+        padding-top: 25px;
+        padding-bottom: 50px;
+    }
+
+    .contact-form {
+        padding-right: 10px;
+    }
+
+    .contact-form h2,
+    .partner h2 {
+        text-align: center;
+    }
+
+    .contact-form input[type="submit"] {
+        margin-bottom: 10px;
+    }
+
+    .partner-item {
+        text-align: center;
+    }
+
+    #footer {
+
+        padding-top: 35px;
+    }
+
+    .footer-left {
+        text-align: center;
+    }
+
+    .footer-left p {
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+
+    .footer-left li {
+        margin: 0px 5px;
+        padding-top: 15px;
+    }
+.footer-left a {
+	font-size: 12px;
+	
+}
+    .footer-middle h3,
+    .footer-right h3 {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .footer-middle p {
+        padding-right: 0px;
+    }
+
+    .footer-middle {
+        text-align: center;
+    }
+
+    .sub input[type="text"] {
+        padding: 10px 40px;
+
+    }
+
+   .sub button i {
+	font-size: 25px;
+	line-height: 25px;
+	padding: 7px 20px;
+}
+    .social{
+        text-align: center;
+    }
+    .social i {
+        margin-right: 10px;
+    }
+
+    .copy-right h6 {
+        padding-top: 35px;
+        text-align: center;
+    }
+    .sub{
+        text-align: center;
+    }
+    
+}
+
+@media(max-width:575.98px) {
+    #banner {
+        padding-top: 144px;
+        padding-bottom: 100px;
+    }
+
+    .navbar-toggler i {
+        color: #fff;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        background: #413d4b;
+        text-align: center;
+    }
+
+    .banner .slick-dots {
+
+        bottom: -100px;
+
+    }
+
+    .sotry-img {
+        text-align: center;
+    }
+
+    #story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .story-text {
+        padding-top: 15px;
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    #story-video {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    #service {
+        padding-top: 0px;
+    }
+
+    .service-head p {
+        padding-top: 10px;
+    }
+
+    .service-head h2::after {
+        bottom: -80px;
+
+    }
+
+    .service-item {
+        padding-top: 40px;
+    }
+
+    .team-text h2::after {
+
+        width: 288px;
+
+    }
+
+    .team-head h3 {
+        padding-top: 35px;
+        padding-bottom: 20px;
+
+    }
+
+    .team-head {
+        padding-bottom: 50px;
+    }
+
+    .nav-pills .nav-link {
+        margin-bottom: 10px;
+    }
+
+    .work-head {
+        padding-top: 5px;
+        padding-bottom: 40px;
+    }
+
+    .feedback-text i {
+        padding-top: 40px;
+    }
+
+    #contact {
+        padding-top: 25px;
+        padding-bottom: 50px;
+    }
+
+    .contact-form {
+        padding-right: 10px;
+    }
+
+    .contact-form h2,
+    .partner h2 {
+        text-align: center;
+    }
+
+    .contact-form input[type="submit"] {
+        margin-bottom: 10px;
+    }
+
+    .partner-item {
+        text-align: center;
+    }
+
+    #footer {
+
+        padding-top: 35px;
+    }
+
+    .footer-left {
+        text-align: center;
+    }
+
+    .footer-left p {
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+
+    .footer-left li {
+        margin: 0px 10px;
+        padding-top: 15px;
+    }
+
+    .footer-middle h3,
+    .footer-right h3 {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .footer-middle p {
+        padding-right: 0px;
+    }
+
+    .footer-middle {
+        text-align: center;
+    }
+
+    .sub input[type="text"] {
+        padding: 10px 10px;
+
+    }
+
+    .sub button i {
+        font-size: 20px;
+        line-height: 20px;
+        padding: 7px 10px;
+
+    }
+    .social{
+        text-align: center;
+    }
+    .social i {
+        margin: 0px;
+    }
+
+    .copy-right h6 {
+        padding-top: 35px;
+        text-align: center;
+    }
+    .sub{
+        text-align: center;
+    }
+}
